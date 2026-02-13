@@ -1,0 +1,9 @@
+.task-prescription{
+  margin:0.4rem 0 0.2rem;
+  font-size:0.78rem;
+  color:#92400e;
+  background:#fef3c7;        /* zachte gele achtergrond */
+  border-left:3px solid #f97316;
+  padding:0.35rem 0.55rem;
+  border-radius:6px;
+}
